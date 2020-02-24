@@ -1,0 +1,6 @@
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_3\obj\Debug\PAW1_3.csprojAssemblyReference.cache
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_3\bin\Debug\PAW1_3.exe.config
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_3\bin\Debug\PAW1_3.exe
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_3\bin\Debug\PAW1_3.pdb
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_3\obj\Debug\PAW1_3.exe
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_3\obj\Debug\PAW1_3.pdb

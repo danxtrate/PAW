@@ -1,0 +1,5 @@
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_2\bin\Debug\PAW1_2.exe.config
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_2\bin\Debug\PAW1_2.exe
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_2\bin\Debug\PAW1_2.pdb
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_2\obj\Debug\PAW1_2.exe
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW1_2\obj\Debug\PAW1_2.pdb
