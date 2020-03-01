@@ -1,0 +1,9 @@
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\bin\Debug\PAW2_1.exe.config
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\bin\Debug\PAW2_1.exe
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\bin\Debug\PAW2_1.pdb
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\obj\Debug\PAW2_1.SumatorSiAtat.resources
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\obj\Debug\PAW2_1.Properties.Resources.resources
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\obj\Debug\PAW2_1.csproj.GenerateResource.cache
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\obj\Debug\PAW2_1.exe
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\obj\Debug\PAW2_1.pdb
+C:\Users\danis\Documents\_SCHOOL\PAW\LABs\PAW2_1\obj\Debug\PAW2_1.csprojAssemblyReference.cache
